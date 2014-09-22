@@ -65,13 +65,14 @@ $arrClientes = array(
         'cpf' => $cliente->setCpf('1010101012000')->getCpf()
     ),
 );
-//ksort ($arrClientes);
-//
-//foreach($arrClientes as $chave => $valor){
-//    echo $chave .'---'.$valor['nome'];
-//}
 
-
+if($_GET){
+	if($_GET['ordem'] == 'ascendente'){
+		ksort ($arrClientes);
+	}else{
+		krsort ($arrClientes);
+	}
+}
 
 ?>
 
@@ -89,6 +90,21 @@ $arrClientes = array(
     <body>
 
         <div class="container">
+			
+			<ul class="nav nav-tabs" role="tablist">
+				<li class="active"><a href="#">Ordenar Clientes</a></li>
+				<li><a href="?ordem=ascendente">Ascendente</a></li>
+				<li><a href="?ordem=descendente">Descendente</a></li>
+			</ul>
+			
+			<div class="separaBloco"></div>
+			
+			<ul class="list-group">
+				<?php foreach($arrClientes as $chave => $valor){ ?>
+				  <li class="list-group-item"><a href="<?php echo $chave;?>"><?php echo $valor['nome']?></a></li>	
+				<?php } ?>
+			</ul>	
+			
         </div>
 
     </body>
