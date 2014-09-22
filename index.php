@@ -69,10 +69,14 @@ $arrClientes = array(
 if($_GET){
 	if($_GET['ordem'] == 'ascendente'){
 		ksort ($arrClientes);
-	}else{
+	}elseif($_GET['ordem'] == 'descendente'){
 		krsort ($arrClientes);
 	}
 }
+
+ini_set('display_errors', true);
+error_reporting(E_ALL | E_STRICT);
+
 
 ?>
 
@@ -90,7 +94,7 @@ if($_GET){
     <body>
 
         <div class="container">
-			
+			<?php if(!$_GET or isset($_GET['ordem'])) { ?>
 			<ul class="nav nav-tabs" role="tablist">
 				<li class="active"><a href="#">Ordenar Clientes</a></li>
 				<li><a href="?ordem=ascendente">Ascendente</a></li>
@@ -101,10 +105,25 @@ if($_GET){
 			
 			<ul class="list-group">
 				<?php foreach($arrClientes as $chave => $valor){ ?>
-				  <li class="list-group-item"><a href="<?php echo $chave;?>"><?php echo $valor['nome']?></a></li>	
+				  <li class="list-group-item"><a href="<?php echo '?cliente='.$chave;?>"><?php echo 'identificação cliente: '.$chave.' - Nome: '. $valor['nome']?></a></li>
 				<?php } ?>
 			</ul>	
-			
+			<?php }elseif($_GET['cliente']) { ?>
+                <ul class="nav nav-tabs" role="tablist">
+                    <li class="active"><a href="#">Cliente</a></li>
+                    <li><a href="/">Voltar</a></li>
+                </ul>
+
+                <div class="separaBloco"></div>
+
+                <ul class="list-group">
+                    <li class="list-group-item"><?php echo "Nome: ".$arrClientes[$_GET['cliente']]['nome']?></li>
+                    <li class="list-group-item"><?php echo "Endereço: ".$arrClientes[$_GET['cliente']]['endereco']?></li>
+                    <li class="list-group-item"><?php echo "Cidade: ".$arrClientes[$_GET['cliente']]['cidade']?></li>
+                    <li class="list-group-item"><?php echo "CPF: ".$arrClientes[$_GET['cliente']]['cpf']?></li>
+                 </ul>
+
+            <?php } ?>
         </div>
 
     </body>

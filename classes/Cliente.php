@@ -7,7 +7,7 @@ class Cliente
     protected $endereco;
     protected $cidade;
 
-   
+
     public function setCidade($cidade)
     {
         $this->cidade = $cidade;
