@@ -26,16 +26,88 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="52" selection-start="3616" selection-end="3616" vertical-scroll-proportion="-22.5" vertical-offset="900" max-vertical-offset="2040">
+            <state line="196" column="67" selection-start="10369" selection-end="10369" vertical-scroll-proportion="-122.5" vertical-offset="0" max-vertical-offset="3225">
+              <folding>
+                <marker date="1412134041341" expanded="true" signature="8263:8739" placeholder="..." />
+                <marker date="1412134041341" expanded="true" signature="8274:8660" placeholder="..." />
+                <marker date="1412134041341" expanded="true" signature="8671:8739" placeholder="..." />
+                <marker date="1412134041341" expanded="true" signature="8704:8739" placeholder="..." />
+                <marker date="1412134041341" expanded="true" signature="9062:9183" placeholder="..." />
+                <marker date="1412134041341" expanded="true" signature="9808:9896" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PesssoaFisicaInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PessoaJuridicaInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnderecoInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="18" selection-start="443" selection-end="443" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PessoaFisica.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="34" selection-start="414" selection-end="414" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="915">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PessoaJuridica.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="21" selection-start="620" selection-end="620" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="975">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Endereco.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Endereco.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="21" selection-start="1223" selection-end="1223" vertical-scroll-proportion="-28.708334" vertical-offset="436" max-vertical-offset="1350">
+              <folding>
+                <element signature="e#6#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClienteInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Cliente.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/classes/Cliente.php">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Cliente.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.048140045" vertical-offset="91" max-vertical-offset="1005">
+            <state line="12" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.11487965" vertical-offset="0" max-vertical-offset="914">
               <folding />
             </state>
           </provider>
@@ -53,7 +125,23 @@
       <list>
         <option value="$PROJECT_DIR$/classes/Cliente.php" />
         <option value="/JavaScript Fragment (index.php:4235).js" />
+        <option value="$PROJECT_DIR$/src/classes/Cliente.php" />
+        <option value="$PROJECT_DIR$/src/Classes/cliente/Cliente.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Cliente/Cliente.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interface/PessoaFisica.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaFisica.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridica.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Abstract/ClienteAbstract.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Abstrato/ClienteAbstract.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Endereco.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Cliente.php" />
       </list>
     </option>
   </component>
@@ -90,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,20 +207,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Clientes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projetofase1oo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projetofase1oo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Clientes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Classes/Clientes/Interface" />
+      <recent name="$PROJECT_DIR$/src/Classes/Clientes" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/Classes/Cliente" />
+      <recent name="$PROJECT_DIR$/src/classes/cliente" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -148,7 +295,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25261998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25813568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -163,7 +310,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -186,28 +333,114 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="3" selection-start="3004" selection-end="3004" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1005">
-          <folding />
+        <state line="31" column="48" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2130">
+          <folding>
+            <marker date="1412134041341" expanded="true" signature="8263:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8274:8660" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8671:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8704:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9062:9183" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9808:9896" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="52" selection-start="3616" selection-end="3616" vertical-scroll-proportion="-22.5" vertical-offset="900" max-vertical-offset="2040">
+        <state line="110" column="29" selection-start="4182" selection-end="4182" vertical-scroll-proportion="0.0" vertical-offset="1126" max-vertical-offset="2040">
+          <folding>
+            <marker date="1412134041341" expanded="true" signature="8263:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8274:8660" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8671:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8704:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9062:9183" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9808:9896" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="3004" selection-end="3004" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
+          <folding>
+            <marker date="1412134041341" expanded="true" signature="8263:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8274:8660" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8671:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8704:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9062:9183" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9808:9896" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="67" selection-start="10369" selection-end="10369" vertical-scroll-proportion="-122.5" vertical-offset="0" max-vertical-offset="3225">
+          <folding>
+            <marker date="1412134041341" expanded="true" signature="8263:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8274:8660" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8671:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="8704:8739" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9062:9183" placeholder="..." />
+            <marker date="1412134041341" expanded="true" signature="9808:9896" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Cliente.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.048140045" vertical-offset="91" max-vertical-offset="1005">
+        <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="443" selection-end="443" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="34" selection-start="414" selection-end="414" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="21" selection-start="620" selection-end="620" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Endereco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="21" selection-start="1223" selection-end="1223" vertical-scroll-proportion="-28.708334" vertical-offset="436" max-vertical-offset="1350">
+          <folding>
+            <element signature="e#6#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.11487965" vertical-offset="0" max-vertical-offset="914">
           <folding />
         </state>
       </provider>
