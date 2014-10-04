@@ -2,11 +2,7 @@
 ini_set('display_errors', true);
 error_reporting(E_ALL | E_STRICT);
 
-define("CLASS_DIR", __DIR__ . DIRECTORY_SEPARATOR . "src" . DIRECTORY_SEPARATOR);
-spl_autoload_register(function($class) {
-   $className = CLASS_DIR . str_replace("\\", DIRECTORY_SEPARATOR, $class) . ".php";
-    include($className);
-});
+require_once 'autoload.php';
 
 $cliente = new Classes\Clientes\Cliente();
 $clienteJuridico = new Classes\Clientes\PessoaJuridica();
@@ -160,9 +156,9 @@ if(isset($_GET)){
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Projeto fase 1</title>
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/fase1.css" rel="stylesheet">
-        <script src="js/bootstrap.min.js"></script>
+        <link href="public_html/css/bootstrap.min.css" rel="stylesheet">
+        <link href="public_html/css/fase1.css" rel="stylesheet">
+        <script src="public_html/js/bootstrap.min.js"></script>
     </head>
     <body>
 

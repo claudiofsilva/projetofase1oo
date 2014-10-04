@@ -1,44 +1,24 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: claudio
- * Date: 30/09/14
- * Time: 20:54
- */
+
 
 namespace Classes\Clientes;
 
-
-use Classes\Clientes\Interfaces\ClienteInterface;
-
-
-class Cliente implements ClienteInterface {
-    protected $nome;
-    protected $telefone;
+use Classes\Clientes\Abstrato\ClienteAbstract;
 
 
-    public function setNome($nome)
+class Cliente extends ClienteAbstract {
+    protected $status;
+
+
+    public function setStatus($status)
     {
-        $this->nome = $nome;
-        return $this;
-    }
-
-    public function getNome()
-    {
-        return $this->nome;
-    }
-
-    public function setTelefone($telefone)
-    {
-        $this->telefone = $telefone;
+        $this->status = $status;
         return $this;
     }
 
 
-    public function getTelefone()
+    public function getStatus()
     {
-        return $this->telefone;
+        return $this->status;
     }
-
-
 } 
