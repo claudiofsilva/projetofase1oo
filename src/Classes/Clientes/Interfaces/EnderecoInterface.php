@@ -3,6 +3,7 @@
 namespace Classes\Clientes\Interfaces;
 
 
+
 interface EnderecoInterface {
     public function setLogradouro($logradouro);
     public function getLogradouro();

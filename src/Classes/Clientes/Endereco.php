@@ -12,11 +12,11 @@ namespace Classes\Clientes;
 use Classes\Clientes\Interfaces\EnderecoInterface;
 
 class Endereco implements  EnderecoInterface {
-    public $logradouro;
-    public $cidade;
-    public $estado;
-    public $cep;
-    public $enderecoCobranca;
+    protected  $logradouro;
+    protected  $cidade;
+    protected  $estado;
+    protected  $cep;
+    protected  $enderecoCobranca;
 
 
     public function setCep($cep)

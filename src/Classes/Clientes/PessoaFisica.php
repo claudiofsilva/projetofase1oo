@@ -3,12 +3,72 @@
 namespace Classes\Clientes;
 
 
-use Classes\Clientes\Interfaces\PesssoaFisicaInterface;
+use Classes\Clientes\Interfaces\ClienteInterface;
 
-class PessoaFisica implements PesssoaFisicaInterface {
-    protected $tipo;
+
+
+class PessoaFisica implements ClienteInterface {
+
     protected $cpf;
-    public $star = 1;
+    protected $star = 1;
+    protected $telefone;
+    protected $endereco;
+    protected $id;
+    protected $nome;
+    protected $sobreNome;
+    protected $status;
+
+
+    public function setStatus($status)
+    {
+        $this->status = $status;
+        return $this;
+    }
+
+
+    public function getStatus()
+    {
+        return $this->status;
+    }
+
+
+    public function setId($id)
+    {
+        $this->id = $id;
+        return $this;
+    }
+
+
+    public function getId()
+    {
+        return $this->id;
+    }
+
+
+    public function setNome($nome)
+    {
+        $this->nome = $nome;
+        return $this;
+    }
+
+
+    public function getNome()
+    {
+        return $this->nome;
+    }
+
+
+    public function setSobreNome($sobreNome)
+    {
+        $this->sobreNome = $sobreNome;
+        return $this;
+    }
+
+
+    public function getSobreNome()
+    {
+        return $this->sobreNome;
+    }
 
 
     public function setCpf($cpf)
@@ -42,15 +102,31 @@ class PessoaFisica implements PesssoaFisicaInterface {
     }
 
 
-    public function setTipo($tipo)
+    public function isPj()
     {
-        $this->tipo = $tipo;
+        return false;
+    }
+
+    public function addEndereco(Endereco $endereco)
+    {
+        $this->endereco = $endereco;
         return $this;
     }
 
-
-    public function getTipo()
+    public function getEndereco()
     {
-        return $this->tipo;
+        return $this->endereco;
     }
+
+    public function addTelefone(Telefone $telefone)
+    {
+        $this->telefone = $telefone;
+        return $this;
+    }
+
+    public function getTelefone()
+    {
+        return $this->telefone;
+    }
+
 } 

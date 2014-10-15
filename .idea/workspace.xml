@@ -23,28 +23,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoload.php">
+      <file leaf-file-name="Banco.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Banco.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180">
+            <state line="29" column="60" selection-start="991" selection-end="991" vertical-scroll-proportion="0.49488056" vertical-offset="0" max-vertical-offset="1230">
+              <folding>
+                <element signature="e#45#83#0" expanded="true" />
+                <marker date="1413393411432" expanded="true" signature="458:557" placeholder="INSERT INTO ..." />
+                <marker date="1413393411432" expanded="true" signature="1037:1141" placeholder="INSERT INTO ..." />
+                <marker date="1413393411432" expanded="true" signature="1717:1794" placeholder="INSERT INTO ..." />
+                <marker date="1413393411432" expanded="true" signature="2142:2293" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PessoaFisica.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="14" selection-start="174" selection-end="174" vertical-scroll-proportion="40.958332" vertical-offset="1163" max-vertical-offset="2055">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PesssoaFisicaInterface.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-              <folding />
+            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="1350">
+              <folding>
+                <element signature="e#106#144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PessoaJuridicaInterface.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
+      <file leaf-file-name="ClienteInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+            <state line="14" column="37" selection-start="378" selection-end="378" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="330">
+              <folding>
+                <element signature="e#47#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PessoaJuridica.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="12" selection-start="1452" selection-end="1452" vertical-scroll-proportion="-9.411765" vertical-offset="900" max-vertical-offset="1815">
               <folding />
             </state>
           </provider>
@@ -53,26 +81,28 @@
       <file leaf-file-name="EnderecoInterface.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="18" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="330">
+            <state line="4" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PessoaFisica.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php">
+      <file leaf-file-name="EnderecoPersistente.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/EnderecoPersistente.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="34" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="915">
+            <state line="19" column="25" selection-start="535" selection-end="535" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PessoaJuridica.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php">
+      <file leaf-file-name="TelefonePersistente.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/TelefonePersistente.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="21" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="975">
-              <folding />
+            <state line="11" column="47" selection-start="201" selection-end="208" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="375">
+              <folding>
+                <element signature="e#49#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,34 +110,16 @@
       <file leaf-file-name="Endereco.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Endereco.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="21" selection-start="1223" selection-end="1223" vertical-scroll-proportion="-28.708334" vertical-offset="361" max-vertical-offset="1275">
+            <state line="18" column="4" selection-start="319" selection-end="319" vertical-scroll-proportion="7.8333335" vertical-offset="383" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClienteInterface.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
+      <file leaf-file-name="Telefone.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Telefone.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cliente.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Cliente.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="2" selection-start="335" selection-end="335" vertical-scroll-proportion="0.37663755" vertical-offset="0" max-vertical-offset="916">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClienteAbstract.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Abstrato/ClienteAbstract.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="41" selection-start="662" selection-end="662" vertical-scroll-proportion="-23.125" vertical-offset="0" max-vertical-offset="675">
+            <state line="27" column="21" selection-start="437" selection-end="437" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
@@ -132,18 +144,28 @@
         <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaFisica.php" />
         <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridica.php" />
         <option value="$PROJECT_DIR$/src/Classes/Clientes/Abstract/ClienteAbstract.php" />
-        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php" />
-        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php" />
         <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php" />
-        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php" />
-        <option value="$PROJECT_DIR$/src/Classes/Clientes/Endereco.php" />
-        <option value="$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php" />
-        <option value="$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php" />
         <option value="$PROJECT_DIR$/autoload.php" />
         <option value="$PROJECT_DIR$/public_html/index.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/src/Classes/Clientes/Abstrato/ClienteAbstract.php" />
         <option value="$PROJECT_DIR$/src/Classes/Clientes/Cliente.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Database/Config.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Database/Conexao.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/TelefoneInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Persistente/EnderecoPersistente.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Telefone.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Persistente/TelefonePersistente.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Database/Banco.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Database/Query.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Endereco.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/Classes/Clientes/Persistente/ClientePersistente.php" />
+        <option value="$PROJECT_DIR$/fixture.php" />
       </list>
     </option>
   </component>
@@ -223,20 +245,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projetofase1oo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projetofase1oo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -287,7 +295,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26309985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27688915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -323,32 +331,96 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Conexao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="34" selection-start="9511" selection-end="9511" vertical-scroll-proportion="0.0" vertical-offset="2284" max-vertical-offset="3165">
+        <state line="38" column="25" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="765">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="42" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="8" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2235">
+          <folding>
+            <element signature="e#106#144#0" expanded="true" />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..cliente..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..telefone..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..endereco..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Endereco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="21" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/TelefoneInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="2" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/ClientePersistente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="315">
+          <folding>
+            <element signature="e#48#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/EnderecoPersistente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="49" selection-start="48" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/TelefonePersistente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="2" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding>
+            <element signature="e#49#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Telefone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="34" selection-start="9511" selection-end="9511" vertical-scroll-proportion="0.0" vertical-offset="2284" max-vertical-offset="3165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
@@ -382,36 +454,15 @@
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="2" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="660">
-          <folding />
+          <folding>
+            <element signature="e#47#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="67" selection-start="10369" selection-end="10369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="196" column="67" selection-start="10369" selection-end="10369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
@@ -445,36 +496,15 @@
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="2" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="660">
-          <folding />
+          <folding>
+            <element signature="e#47#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="67" selection-start="10369" selection-end="10369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="196" column="67" selection-start="10369" selection-end="10369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
@@ -508,105 +538,165 @@
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding>
+            <element signature="e#47#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="48" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="29" selection-start="4182" selection-end="4182" vertical-scroll-proportion="0.0" vertical-offset="1126" max-vertical-offset="2040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="3" selection-start="3004" selection-end="3004" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Telefone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="21" selection-start="437" selection-end="437" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="48" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2130">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="1350">
+          <folding>
+            <element signature="e#106#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="2673" selection-end="2673" vertical-scroll-proportion="-17.166666" vertical-offset="473" max-vertical-offset="1380">
+          <folding>
+            <element signature="e#106#144#0" expanded="true" />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..cliente..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..telefone..." />
+            <marker date="1413413022373" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..endereco..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="44" selection-start="537" selection-end="537" vertical-scroll-proportion="0.33632287" vertical-offset="0" max-vertical-offset="892">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="29" selection-start="4182" selection-end="4182" vertical-scroll-proportion="0.0" vertical-offset="1126" max-vertical-offset="2040">
+        <state line="17" column="42" selection-start="333" selection-end="333" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="892">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Query.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="3" selection-start="3004" selection-end="3004" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
-          <folding />
+        <state line="13" column="26" selection-start="249" selection-end="249" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="720">
+          <folding>
+            <marker date="1413402445616" expanded="true" signature="-1:-1" placeholder="SELECT c.id_..cliente..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="378" selection-end="378" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="330">
+          <folding>
+            <element signature="e#47#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/EnderecoInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="18" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="330">
+        <state line="4" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PesssoaFisicaInterface.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/TelefoneInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+        <state line="11" column="2" selection-start="242" selection-end="242" vertical-scroll-proportion="0.18497758" vertical-offset="0" max-vertical-offset="892">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/PessoaJuridicaInterface.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/ClientePersistente.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+        <state line="16" column="12" selection-start="371" selection-end="371" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
+          <folding>
+            <element signature="e#48#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/EnderecoPersistente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="25" selection-start="535" selection-end="535" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Persistente/TelefonePersistente.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="21" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="975">
+        <state line="11" column="47" selection-start="201" selection-end="208" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="375">
+          <folding>
+            <element signature="e#49#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Endereco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="4" selection-start="319" selection-end="319" vertical-scroll-proportion="7.8333335" vertical-offset="383" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaFisica.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="34" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="915">
+        <state line="12" column="14" selection-start="174" selection-end="174" vertical-scroll-proportion="40.958332" vertical-offset="1163" max-vertical-offset="2055">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Interfaces/ClienteInterface.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/PessoaJuridica.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+        <state line="92" column="12" selection-start="1452" selection-end="1452" vertical-scroll-proportion="-9.411765" vertical-offset="900" max-vertical-offset="1815">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoload.php">
+    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Database/Banco.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="31" selection-start="8380" selection-end="8380" vertical-scroll-proportion="-28.125" vertical-offset="1710" max-vertical-offset="3165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Abstrato/ClienteAbstract.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="41" selection-start="662" selection-end="662" vertical-scroll-proportion="-23.125" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Endereco.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="21" selection-start="1223" selection-end="1223" vertical-scroll-proportion="-28.708334" vertical-offset="361" max-vertical-offset="1275">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Clientes/Cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="2" selection-start="335" selection-end="335" vertical-scroll-proportion="0.37663755" vertical-offset="0" max-vertical-offset="916">
-          <folding />
+        <state line="29" column="60" selection-start="991" selection-end="991" vertical-scroll-proportion="0.49488056" vertical-offset="0" max-vertical-offset="1230">
+          <folding>
+            <element signature="e#45#83#0" expanded="true" />
+            <marker date="1413393411432" expanded="true" signature="458:557" placeholder="INSERT INTO ..." />
+            <marker date="1413393411432" expanded="true" signature="1037:1141" placeholder="INSERT INTO ..." />
+            <marker date="1413393411432" expanded="true" signature="1717:1794" placeholder="INSERT INTO ..." />
+            <marker date="1413393411432" expanded="true" signature="2142:2293" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
